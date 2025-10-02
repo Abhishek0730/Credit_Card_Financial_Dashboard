@@ -3,6 +3,7 @@
 
 The Credit Card Financial Dashboard is an end-to-end data analytics project designed to provide real-time insights into credit card operations. This project demonstrates how raw data can be transformed into meaningful insights using Excel, PostgreSQL, and Power BI.
 
+
 Key objectives:
 
 Monitor weekly financial performance of credit card transactions.
@@ -10,6 +11,7 @@ Monitor weekly financial performance of credit card transactions.
 Analyze revenue, transactions, customer demographics, and card usage trends.
 
 Deliver actionable insights to support decision-making for stakeholders.
+
 
 🛠️ Project Workflow
 
@@ -39,6 +41,7 @@ Built interactive visuals and KPIs using DAX measures.
 
 Designed a user-friendly dashboard for weekly financial analysis.
 
+
 📊 Dashboard Insights
 
 📈 Revenue Growth: Increased by 28.8% (WoW) in Week 53.
@@ -53,6 +56,7 @@ Designed a user-friendly dashboard for weekly financial analysis.
 
 ✅ KPIs: Activation Rate (57.5%), Delinquency Rate (6.06%).
 
+
 🖥️ Tech Stack
 
 Excel → Data Cleaning & Preparation
@@ -62,6 +66,7 @@ PostgreSQL → Database Creation & Management
 SQL → Data Extraction & Transformation
 
 Power BI → Interactive Dashboard & Insights
+
 
 📷 Dashboard Preview
 
@@ -76,6 +81,7 @@ Writing SQL queries & DAX measures for meaningful insights.
 
 Designing interactive dashboards for stakeholders.
 
+
 ✨ Future Improvements
 
 Automate data refresh with PostgreSQL & Power BI service.
@@ -83,6 +89,7 @@ Automate data refresh with PostgreSQL & Power BI service.
 Add predictive analytics for revenue & delinquency trends.
 
 Enhance user interactivity with drill-through reports.
+
 
 📝 Author
 
